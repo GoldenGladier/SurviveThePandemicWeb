@@ -8,6 +8,10 @@
   margin: 0 !important;
   padding: 0!important;
 }
+.not_margin_unique{
+  margin: 0 !important;
+  margin: auto !important;
+}
 
 .container-logo{
   display: block !important;
